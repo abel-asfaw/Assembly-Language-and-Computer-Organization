@@ -1,5 +1,4 @@
 ;Name: Abel Asfaw
-;ID: FV79057
 
 ;This is a menu-driven program to encrypt text messages.
 

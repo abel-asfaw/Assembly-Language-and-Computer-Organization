@@ -1,5 +1,4 @@
 ;Name: Abel Asfaw
-;ID: FV79057
 
 ;This subroutine prompts the user to enter an integer (jump value) that 
 ;is between 2 and the square root of the length of the current message, 

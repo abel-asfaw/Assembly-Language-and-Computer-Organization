@@ -1,5 +1,4 @@
 ;Name: Abel Asfaw
-;ID: FV79057
 
 ;This subroutine validates the message to make sure that it starts with 
 ;a capital letter and ends with either a period ('.'), question mark ('?') 
